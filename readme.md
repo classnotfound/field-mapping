@@ -1,0 +1,1 @@
+Small project to illustrate Mapstruct [issue](https://github.com/mapstruct/mapstruct/issues/2115) with Lombok and builders
